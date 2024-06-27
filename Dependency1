@@ -1,0 +1,17 @@
+Spring tool :-         https://spring.io/tools
+
+XML Schema-based configuration:-
+https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/xsd-configuration.html
+
+
+Maven repository dependecy
+https://mvnrepository.com/artifact/org.springframework/spring-context/6.1.6
+
+
+pom.xml
+ <!--spring-context-depenedency-->
+	<dependency>
+    	<groupId>org.springframework</groupId>
+    	<artifactId>spring-context</artifactId>
+    	<version>6.1.6</version>
+	</dependency>
